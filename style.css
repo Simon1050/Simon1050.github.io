@@ -31,8 +31,9 @@ a {
 
 .nextTo {
   display: flex;
-  justify-content: space-between;
-  width: 150px
+  justify-content: space-around;
+  width: 40%;
+
 }
 
 .headline {
