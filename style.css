@@ -45,15 +45,19 @@ body {
   margin-top: 5px;
 }
 
-
 .current {
   text-decoration: underline;
 }
 
 .img {
-  width: 200px;
+  /* width: 200px; */
   border: 1px solid rgb(226, 226, 226);
   border-radius:2px;
+}
+
+.imgs {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 h1 {
