@@ -60,6 +60,10 @@ body {
   flex-wrap: wrap;
 }
 
+.store-imgs {
+  margin-top: 10px;
+}
+
 h1 {
   font-size: 16px;
   color: black;
